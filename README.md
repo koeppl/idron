@@ -34,12 +34,3 @@ We used Clojure with Tinkerpop because
 ## Examples
  * Run `lein run import /database/mu ~/mu.osm true` to create a fresh Neo4J-database `/database/mu` with data imported from the OSM-XML file `mu.osm`.
  * Run `lein run plot /tmp` to plot an evaluation of the implemented algorithms on some graphs to the directory `/tmp`.
-
-
-## Copyright and License
-
-Copyright (C) 2014 Dominik Köppl, University of Augsburg, Bavaria, Germany
-All rights reserved.  
-The use and distribution terms for this software are covered by the [Eclipse Public License](http://www.eclipse.org/legal/epl-v10.html).
-By using this software in any fashion, you are agreeing to be bound by the terms of this license.
-You must not remove this notice, or any other, from this software.
